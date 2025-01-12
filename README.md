@@ -1,5 +1,15 @@
 <h1>Hola Soy Ramiro Vega</h1>
+
 ### 👨🏻‍💻 &nbsp;About Me
+
+<ul>
+  <li>Ingeniero de Sistemas de la <a href="https://www.unimagdalena.edu.co/">Universidad del Magdalena</a></li>
+  <li>Comprometido con la usabilidad y el rendimiento.</li>
+  <li>Entusiasta de la tecnologia.</li>
+  <li>Disfruto de aprender cosas nuevas.</li>
+  <li>Me considero una persona responsable y dedicada.</li>
+  <li>Mi motivacion: "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida"</li>
+</ul>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
