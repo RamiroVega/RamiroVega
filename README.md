@@ -1,3 +1,4 @@
+<div>
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
@@ -48,18 +49,15 @@
 <h3 align="left" >Connect with me 🤝 </h3>
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-    <a   target="_blank" href="www.linkedin.com/in/ramiro-vega-balaguera-604206118">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-    <a style="margin-left: 10px;" target="_blank" href="ramiro.vega1993@gmail.com">
-		  <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-      </div>
+    <a   target="_blank" href="https://www.linkedin.com/in/ramiro-vega-balaguera-604206118">
+	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:ramiro.vega1993@gmail.com?Subject=Interesado">
+       <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+    <a style="margin-left: 5px;" target="_blank" href="https://">
+	<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+</div>
 
-</p>
-
-
-	
+</p>	
 
 </div>
 
