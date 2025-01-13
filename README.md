@@ -53,6 +53,7 @@
 | _[DrexGamer](https://github.com/RamiroVega/drexGamer)_            | Pagina para recomendaciones de videojuegos         |
 <h4 align="left">All of these are open source!</h4>
 
+<h3 align="left">:link: Connect with me</h3>
  <div align="left"  class="icons-social" style="margin-left: 10px;">
     <a   target="_blank" href="https://www.linkedin.com/in/ramirovegab">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
