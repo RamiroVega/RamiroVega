@@ -50,7 +50,7 @@
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
-| _[DrexGamer](https://https://github.com/RamiroVega/drexGamer)_            | Pagina para recomendaciones de videojuegos         |
+| _[DrexGamer](https://github.com/RamiroVega/drexGamer)_            | Pagina para recomendaciones de videojuegos         |
 <h4 align="center">All of these are open source!</h4>
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
