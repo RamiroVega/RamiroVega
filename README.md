@@ -46,7 +46,12 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RamiroVega&theme=dark&hide_border=true"/>
 </p>
 
-<h3 align="left" >Connect with me 🤝 </h3>
+<h2 align="center"><u>My Best Works</u></h2>
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[DrexGamer](https://https://github.com/RamiroVega/drexGamer)_            | Pagina para recomendaciones de videojuegos         |
+<h4 align="center">All of these are open source!</h4>
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
     <a   target="_blank" href="https://www.linkedin.com/in/ramirovegab">
