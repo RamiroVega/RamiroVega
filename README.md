@@ -49,7 +49,7 @@
 <h3 align="left" >Connect with me 🤝 </h3>
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-    <a   target="_blank" href="https://www.linkedin.com/in/ramiro-vega-balaguera-604206118">
+    <a   target="_blank" href="https://www.linkedin.com/in/ramirovegab">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
     <a style="margin-left: 10px;" target="_blank" href="mailto:ramiro.vega1993@gmail.com?Subject=Interesado">
        <img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
